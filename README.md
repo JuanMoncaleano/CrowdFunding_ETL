@@ -4,30 +4,30 @@ Welcome to our Crowdfunding ETL Project! This project leverages the Extract, Tra
 
 **Overview**
 
-  In this project, we work with data from a crowdfunding platform. The data includes details of the campaigns and their associated contacts. We apply the ETL process to clean, reshape, and store this data, enabling further analysis and insights extraction.
+*  In this project, we work with data from a crowdfunding platform. The data includes details of the campaigns and their associated contacts. We apply the ETL process to clean, reshape, and store this data, enabling further analysis and insights extraction.
 
 **Project Steps**
 
-  Data Extraction: We import data from two Excel files, crowdfunding.xlsx and contacts.xlsx, into separate Pandas dataframes.
+*  Data Extraction: We import data from two Excel files, crowdfunding.xlsx and contacts.xlsx, into separate Pandas dataframes.
 
-  Data Transformation: We then transform these dataframes by cleaning data, handling missing values, renaming columns, converting data types, splitting columns, and creating new dataframes.
+*  Data Transformation: We then transform these dataframes by cleaning data, handling missing values, renaming columns, converting data types, splitting columns, and creating new dataframes.
 
-  Data Loading: Finally, we load the transformed data into CSV files. We also load these CSV files into a PostgreSQL database.
+*  Data Loading: Finally, we load the transformed data into CSV files. We also load these CSV files into a PostgreSQL database.
 
 **Tools and Libraries Used**
 
-  Python
+*  Python
 
-  Pandas
+*  Pandas
 
-  PostgreSQL
+*  PostgreSQL
 
-  Jupyter Notebook
+*  Jupyter Notebook
 
 **Contributors**
 
-  Juan Moncaleano
+*  Juan Moncaleano
 
-  Tracey Geneau
+*  Tracey Geneau
 
-  Jiaolu Xie
+*  Jiaolu Xie
